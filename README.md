@@ -257,7 +257,7 @@ pyreadline3
 ```bash
 cloyster/
 │
-├── cloyster.py
+├── cloysterframework.py.py
 ├── donut.exe
 │
 ├── configs/
@@ -275,7 +275,7 @@ cloyster/
 Clone repository:
 
 ```bash
-git clone https://github.com/yourname/cloyster-framework.git
+git clone https://github.com/Guilherme-alexander/cloyster-framework.git
 cd cloyster-framework
 ```
 
@@ -298,7 +298,7 @@ donut.exe
 next to:
 
 ```bash
-cloyster.py
+ cloysterframework.py
 ```
 
 ---
@@ -308,7 +308,7 @@ cloyster.py
 Start:
 
 ```bash
-python cloyster.py
+python cloysterframework.py
 ```
 
 Example:
